@@ -1,0 +1,22 @@
+.etch-a-sketchBOARD div{
+    display: flex;
+    justify-content: space-around;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    background-color: blue;
+}
+
+.etch-a-sketchBOARD div div {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+}
+
+.etch-a-sketchBOARD {
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    height: 600px;
+}
