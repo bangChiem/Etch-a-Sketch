@@ -16,7 +16,16 @@
 
 .etch-a-sketchBOARD {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
     width: 600px;
     height: 600px;
+}
+
+.container {
+    width: 600px;   
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+
 }
